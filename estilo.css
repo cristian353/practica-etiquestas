@@ -1,0 +1,52 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    position:  relative;
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+    padding-top: 0.4%;
+    padding-bottom: 0.4%;
+    text-align: center;
+    font-size: 30px;
+    color: yellow ;
+
+}
+
+.principal {
+    background-color: gainsboro;
+    position: relative;
+    padding-top: 0.7%;
+}
+
+
+
+span.tachado {
+    text-decoration: line-through;
+}
+
+span.azul {
+    color: blue;
+}
+
+span.negrita {
+    font-weight: bold;
+}
+
+span.cursiva {
+    font-style: italic;
+}
+
+span.subrayado-amarillo {
+    background-color: yellow;
+}
+
+.titulo {
+    text-align: center;
+    font-weight: bold;
+    padding: auto;
+    font-size: 20px;
+}
