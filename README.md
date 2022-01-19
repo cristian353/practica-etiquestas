@@ -1,1 +1,1 @@
-# practica-etiquestas
+# practica-etiquetas
